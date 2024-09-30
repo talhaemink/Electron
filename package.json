@@ -7,9 +7,9 @@
     "build": "electron-builder build --win --publish never",
     "deploy": "electron-builder build --win --publish always"  
   },
-  "author": "",
+  "author": "talhaemink",
   "license": "ISC",
-  "description": "",
+  "description": "First Version",
   "devDependencies": {
     "electron": "^32.1.2",
     "electron-builder": "^25.0.5"
